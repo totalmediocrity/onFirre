@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "203115439159",
+    "project_id": "fir-sem2",
+    "storage_bucket": "fir-sem2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203115439159:android:53d987ea49cd7811dd8bb2",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203115439159-5ca176j1lv3pc7bca90t8sgmbe51jv39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcqWvUOR97YdUaWl7YX3FzADnYiFbm1Q0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203115439159-5ca176j1lv3pc7bca90t8sgmbe51jv39.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
