@@ -12,7 +12,7 @@
 <img src="https://sun9-80.userapi.com/impg/RDTjHj_CN6TiPL4zBO9zyXV1Xlpvqv-eIjAUIw/C8ZKhnxAEz0.jpg?size=429x861&quality=95&sign=fc7598a92d3b335043b4feec0a1ea52d&type=album">
 
 
-<img src="<img src="https://sun9-80.userapi.com/impg/RDTjHj_CN6TiPL4zBO9zyXV1Xlpvqv-eIjAUIw/C8ZKhnxAEz0.jpg?size=429x861&quality=95&sign=fc7598a92d3b335043b4feec0a1ea52d&type=album">">
+<img src="https://sun9-80.userapi.com/impg/RDTjHj_CN6TiPL4zBO9zyXV1Xlpvqv-eIjAUIw/C8ZKhnxAEz0.jpg?size=429x861&quality=95&sign=fc7598a92d3b335043b4feec0a1ea52d&type=album">
 
 <img src="https://sun9-43.userapi.com/impg/K49_61_dUYGXF_ICwnNl7wFsm_c_vBOLOwMqBQ/dDQvgsC6nvI.jpg?size=421x852&quality=95&sign=6701e35c855c7f2667c4c5ebe77c0b4b&type=album">
 
