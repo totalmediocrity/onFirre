@@ -168,7 +168,6 @@ class ProfilePageState extends State<ProfilePage> {
               child: ElevatedButton(
                 style: ElevatedButton.styleFrom(
                   foregroundColor: Colors.white,
-                 backgroundColor: Colors.redAccent,
                   shape: const StadiumBorder(),
                   textStyle: const TextStyle(
                     fontSize: 16,
